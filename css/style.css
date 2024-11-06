@@ -417,4 +417,7 @@ Responsive media queries
   .title-text {
     margin-bottom: 15px;
   }
+  #about {
+    background: none; /* Elimina la imagen de fondo */
+  }
 }
